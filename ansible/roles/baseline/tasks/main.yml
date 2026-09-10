@@ -1,2 +1,1 @@
-platform_environment: nonprod
-platform_owner: bootcamp
+{'platform_environment': 'nonprod', 'platform_owner': 'bootcamp'}
