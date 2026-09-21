@@ -1,1 +1,5 @@
-{'platform_environment': 'nonprod', 'platform_owner': 'bootcamp'}
+- name: Platform baseline marker
+  debug:
+    msg: >
+      Baseline role applied.
+      Runtime policy is enforced via CI/CD.
